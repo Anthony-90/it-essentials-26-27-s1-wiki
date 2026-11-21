@@ -30,3 +30,7 @@ Een ingevulde wiki over Harry Potter zou beginnen met een inleiding als deze:
 > Deze wiki verzamelt de personages en locaties uit de boekenreeks van J.K. Rowling. Het verhaal speelt zich af in een verborgen magische wereld die naast de gewone wereld bestaat, met Zweinsteins Hogeschool voor Hekserij en Hocus-Pocus als middelpunt. De reeks volgt Harry Potter van zijn elfde tot zijn zeventiende, en draait rond zijn confrontatie met Voldemort.
 
 Kies gerust hetzelfde universum als een klasgenoot: enkel identieke teksten zijn een probleem.
+
+# De Wereld van One Piece
+
+Deze wiki verzamelt personages en locaties uit de manga en anime One Piece van Eiichiro Oda. Het verhaal volgt Monkey D. Luffy en zijn Strohoed-piraten op hun zoektocht naar de One Piece, de legendarische schat van Gol D. Roger. Onderweg bezoeken ze eilanden over de hele Grand Line en botsen ze op machtige vijanden, de Marine en de Wereldregering.
